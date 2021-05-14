@@ -1,3 +1,15 @@
 Needs to refer gate questions
 
 1. http://clweb.csa.iisc.ac.in/rahulsharma/gate2011key.html
+
+
+int check(int n){
+    if(n <= 1)
+        return 1;
+    if(n % 2 == 0)
+        return 1 + check(n / 2);
+    else
+        return 1 + check(n / 2 + 1);
+}
+
+check with 25 and 10
