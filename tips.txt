@@ -13,3 +13,25 @@ int check(int n){
 }
 
 check with 25 and 10
+
+
+Page Speed Test
+---------------
+
+1. https://developers.google.com/speed/pagespeed/insights/
+
+2. https://tools.pingdom.com/
+
+3. https://gtmetrix.com/
+
+------------------------------------------------------
+
+LINK NOT CONNECT
+----------------
+1. Home page footer icon like facebook, twitter, instagram, youtube
+
+2. All page footer aboutus, sitemap, privacy policy
+
+3. 
+
+
