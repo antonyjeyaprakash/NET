@@ -1,8 +1,6 @@
 Needs to refer gate questions
 
-
 1. http://clweb.csa.iisc.ac.in/rahulsharma/gate2011key.html
-
 
 int check(int n){
     if(n <= 1)
