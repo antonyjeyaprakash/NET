@@ -24,3 +24,27 @@ QUESTION BANK WEB SITE
 
 Confused about this problem. pls check this.
 https://www.youtube.com/watch?v=OnpWg1Sx8I4&ab_channel=DigiiMentoClasses
+
+
+The modification of the software to match changes in the ever changing environment, falls under which category of software maintenance?
+A.	corrective
+B.	adaptive
+C.	perfective
+D.	preventive
+Answer» B. adaptive
+
+Changes made to an information system to add the desired but not necessarily the required features is called (TNSET)
+1) Preventative maintenance 
+2) Adaptive maintenance 
+3) Corrective maintenance 
+4) Perfective maintenance (yes) 
+
+
+Tools to be used for Compiler Design
+
+1) LEX -  produce tokens
+2) YACC - produce parser to compile LALR(1) grammar
+			The input of YACC is the rule or grammar and the output is a C program.
+			
+Which parser is more powerful?
+   LR(0) < SLR < LALR < CLR   
