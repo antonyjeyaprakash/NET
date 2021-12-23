@@ -48,3 +48,16 @@ Tools to be used for Compiler Design
 			
 Which parser is more powerful?
    LR(0) < SLR < LALR < CLR   
+   
+   
+Any syntactic construct that can be described by a regular expression can also be described by a (NET-2009-June-P2)
+1) Context sensitive grammar  
+2) Non context free grammar   
+3) Context free grammar   
+4) None of the above
+Explanation: Context Sensitive grammer can not contain a empty string. A regular grammar can contain, so it can not be described by CSG. Option is C , Context free grammar. Option Non Context free is very general in nature and does not say anything which grammar it is so not counted it.
+   
+Any syntactic construct that can be described by a regular expression can also be 
+described by a (TNSET)
+1) Context sensitive grammar 2) Non-context free grammar 
+3) Context-free grammar 	4) Both 1) and 2)  (yes)
