@@ -1,3 +1,9 @@
+YET TO STUDY:
+   1) First Order Logic
+   2) Propositional Logic
+   3) Reader Writer Problem in OS
+
+
 Needs to refer gate questions
 
 1. http://clweb.csa.iisc.ac.in/rahulsharma/gate2011key.html
@@ -61,3 +67,16 @@ Any syntactic construct that can be described by a regular expression can also b
 described by a (TNSET)
 1) Context sensitive grammar 2) Non-context free grammar 
 3) Context-free grammar 	4) Both 1) and 2)  (yes)
+
+
+A multiplexer combines four 100-Kbps channels using a time slot of 2 bits. What is the bit rate?  (NET - 2016 - July - p2)
+1) 100 Kbps
+2) 200 Kbps
+3) 400 Kbps(yes)
+4) 1000 Kbps
+Explanation:-
+Total bandwidth of input channels = 100 * 1000 * 4 bits/sec
+Transmission time by all four channels in 2 bit slot is = 2/ ( 100 * 1000 *4 ) = 0.000005 mlsc
+now question is in one sec how many bits you get are transferring ? 
+That is = 1/(0.000005) *2 bits/sec = 400Kbps
+Ref https://www.cpe.ku.ac.th/~plw/dccn/presentation/ch06.pdf
