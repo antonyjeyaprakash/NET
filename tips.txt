@@ -80,3 +80,9 @@ Transmission time by all four channels in 2 bit slot is = 2/ ( 100 * 1000 *4 ) =
 now question is in one sec how many bits you get are transferring ? 
 That is = 1/(0.000005) *2 bits/sec = 400Kbps
 Ref https://www.cpe.ku.ac.th/~plw/dccn/presentation/ch06.pdf
+
+
+Fuzzy Sets:-
+-----------
+http://enthusiaststudent.blogspot.com/2020/10/fuzzy-sets-mcqs.html
+https://ask-public.com/41362/
