@@ -1,0 +1,62 @@
+https://www.geeksforgeeks.org/how-to-find-the-highest-normal-form-of-a-relation/
+https://www.cs.colostate.edu/~cs430dl/yr2020su/more_examples/Ch8/Finding%20the%20candidate%20keys.pdf
+https://minigranth.in/dbms-tutorial/closure-of-functional-dependency#:~:text=The%20Closure%20Of%20Functional%20Dependency,%E2%80%9C%7BF%7D%2B%E2%80%9D.
+https://minigranth.in/dbms-tutorial/functional-dependency-in-dbms
+
+
+https://www.geeksforgeeks.org/functional-dependency-and-attribute-closure/
+https://www.javatpoint.com/dbms-candidate-key
+
+https://gateoverflow.in/59142/ugcnet-dec2014-ii-19
+https://www.geeksforgeeks.org/how-to-find-the-highest-normal-form-of-a-relation/
+https://www.gatevidyalay.com/candidate-key-finding-candidate-key-examples/
+https://www.avatto.com/computer-science/test/mcqs/questions-answers/database/73/4.html
+
+conflict serializability
+----------------------------
+https://www.geeksforgeeks.org/ugc-net-ugc-net-cs-2017-nov-iii-question-7/
+https://gateoverflow.in/225821/ugcnet-july-2018-ii-65
+https://academyera.com/ugc-net-june-paper-2-transactions-2
+https://www.exploredatabase.com/2018/04/check-for-conflict-serializability-solved-example-dbms.html
+https://www.geeksforgeeks.org/conflict-serializability-in-dbms/
+
+
+---------------------------------------------------------------------------------
+
+ISRO PREVIOUS QUESTIONS LINK
+https://www.isro.gov.in/sites/default/files/cs-2017.pdf
+
+-------------------------------------------------------------------------
+What is the hit ratio of cache if a system performs memory access at 30 nano seconds 
+with the cache and 150 nano seconds without it? Assume that the each uses 20 nano 
+sec. memory, choose the closest approximate.
+
+-------------------------------------------------------
+
+Assume that a read request takes 50 nsec on a cache miss and 5 nsec on a 
+cache hit. While running a program, it is observed that 80% of the 
+processor’s read requests result in a cache hit. The average read access 
+time is ………….. nsec.
+Correct answer is 14.
+Average read time = 0.80 x 5 + (1 – 0.80) x 50 = 14 nsec
+
+--------------------------------------------------
+
+Question: Consider the following schedules involving two transactions. Which one of the following statement is true? 
+S1: R1(X) R1(Y) R2(X) R2(Y) W2(Y) W1(X) 
+S2: R1(X) R2(X) R2(Y) W2(Y) R1(Y) W1(X) 
+
+A) Both S1 and S2 are conflict serializable
+B) Only S1 is conflict serializable
+C) Only S2 is conflict serializable
+D) None
+
+
+------------------------------------------------------------------------
+Lot of questions:-
+
+https://solutionsadda.in/
+
+----------------------------------------------------------------------
+
+

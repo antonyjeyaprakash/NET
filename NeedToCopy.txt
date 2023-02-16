@@ -1,0 +1,72 @@
+Big Bang Testing:-
+   All the modules are integrated and testing. It is a integration testing.
+Mutation Testing:-
+   Fault based Testing method or fault simulation testing method.
+
+Slots and facets are used in (2014-June)
+ (A) Semantic Networks 
+ (B) Frames (yes)
+ (C) Rules 
+ (D) All of these
+ 
+Explanation:- A frame language is a technology used for knowledge representation in artificial intelligence.
+A frame has a set of slots, A slot represents a relation to another frame (or value). 
+A slot has one or more facets, A facet represents some aspect of the relation
+
+
+ _________ maintains the list of free disk blocks in the Unix file system. (NET-2014-June)
+ (A) I-node 	(B) Boot block 		(C) Super block(yes) 		(D) File allocation table 
+ Explanation:-
+ A super block describes the state of the file system: the total size of the partition, the block size, pointers to a list of free blocks, the inode number of the root directory, magic number, etc.
+ 
+ 
+ For a function of two variables, boundary value analysis yields
+(A) 4n + 3 test cases (B) 4n + 1 test cases(yes)
+(C) n + 4 (D) None of the above
+Refer:-
+    http://www.msibm.edu.in/wp-content/uploads/2020/12/Software_Engineering_-MCQ.pdf
+	
+	
+For a program of k variables, boundary value analysis yields ______ test cases. (NET-2016-P2)
+(A) 4k – 1		(B) 4k			(C) 4k + 1(yes)			(D) 2k – 1	
+Explanation:-
+For a program of k variables boundary value analysis yields 4 * k + 1 test
+Robustness testing yields 6 * k + 1
+worst case testing yields 5 * k.
+
+
+The Best(desired) level of coupling is
+(A) No coupling (B) Control coupling	(C) Common coupling (D) Data coupling(yes)
+Explanation:-
+The dependency between module A and B is said to be data coupled if their dependency is based on the fact they communicate by only passing of data.
+
+The worst type of coupling is
+(A) Data coupling. (B) control coupling.	(C) stamp coupling. (D) content coupling(yes)
+Explanation:- Content coupling occurs when module A changes data of module B or when control is passed from one module to the middle of another
+
+
+List – I ----------------------- List – II
+a. Data coupling -------------- i. Module A and Module B have shared data
+b. Stamp coupling ------------- ii. Dependency between modules is based on the fact 		they communicate by only passing of data
+c. Common coupling ------------ iii. When complete data structure is passed from one module to another
+d. Content coupling ----------- iv. When the control is passed from one module to the middle of another
+Answer:-
+(B) a - ii, b - iii, c - i, d - iv
+
+
+All the modules of the system are integrated and tested as complete system in the 
+case of
+(A) Bottom up testing  (B) Top-down testing
+(C) Sandwich testing   (D) Big-Bang testing(yes)
+
+Changes made to an information system to add the desired but not necessarily the 
+required features is called
+(A) Preventative maintenance.		(B) Adaptive maintenance.
+(C) Corrective maintenance.			(D) Perfective maintenance(yes)
+
+Match the following : (NET-2014-June)
+List – I 					  List – II
+a. Timeout orderingprotocol	 i. Wait for graph
+b. Deadlock	prevention		 ii. Roll back
+c. Deadlock	detection		 iii. Wait-die scheme
+d. Deadlock	recovery         iv. Thomas Write Rule

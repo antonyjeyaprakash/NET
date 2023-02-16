@@ -1,7 +1,3 @@
-YET TO STUDY:
-   1) First Order Logic
-   2) Propositional Logic
-   3) Reader Writer Problem in OS
 
 
 Needs to refer gate questions
