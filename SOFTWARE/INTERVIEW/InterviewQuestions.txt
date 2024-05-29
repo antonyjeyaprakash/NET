@@ -282,11 +282,29 @@ infosys
 Others
 -------
 1. what is the difference between mysql_real_escape_string and mysql_escape_string
+2. What is queryselector in jquery
+3. What is queryselectorall in jquery
+4. what is the use of dependency injection.
 
 
 
 Vannila Network Online test interview QUESTIONS
 ------------------------------------------------
+1. $x = 3;
+   switch($x) {
+      case 2: echo "line 1"; break;
+	  case 3:
+	  case 4: echo "line 2"; break;
+	  default: echo "line 3";
+	}
+	
+	a) line 2    b) line 3   c) No output   d) line 1
+
+1. $x = 3 * 3 % 5;
+   echo "$x";
+   a) 3  b)  4   c) 5  d) 6    e)  8   f)  9
+   
+   
 
 1. What is the output from these PHP statements?
 
@@ -322,6 +340,16 @@ echo '$x';
 a) $x		b) x		c) test		d) No output
  
  ----------------------------------------------------------------------------------
+ 
+3. What is the output of addslashes("~`!@#$%^&*()_-+=|\}]{[\"':;<,>.?/\\")?
+      
+a)  ~`!@#$%^&*()_-+=|}]{["':;<,>.?/
+b)  ~\`!@#$%^&*()_-+=|\}]{[\"\':;<,>.?\/\
+c)  ~`!@#$%^&*()_-+=|\\}]{[\"\':;<,>.?/\\   ans
+d)  ~`!@#$%^&*()_-+=|\}]{["\':;<,>.?/\
+e)  \~\`\!\@\#\$\%\^\&\*\(\)\_\-\+\=\|\\\}\]\{\[\\\"\'\:\;\<\,\>\.\?\/\\
+
+--------------------------------------------------------------------------------------------------
  
 4. What is the output of mysql_escape_string("~`!@#$%^&*()_-+=|\}]{[\"':;<,>.?/\\")?
       

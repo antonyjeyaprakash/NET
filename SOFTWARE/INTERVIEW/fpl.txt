@@ -1,0 +1,170 @@
+
+Personal Details
+antonyjeyaprakash@gmail.com Switch accounts
+ 
+Draft saved
+Your email address will be recorded when you submit this form
+* Indicates required question
+Senior PHP Developer Test Question 
+1. What does PHP stand for?
+
+*
+1 point
+A) Personal Home Page
+B) Preprocessed Hypertext Processor
+C) Programming Hypertext Processor
+D) PHP: Hypertext Preprocessor
+2. Which PHP function is used to output text to the browser?
+
+*
+1 point
+A) print()
+B) echo()
+C) out()
+D) write()
+
+
+3. Which of the following is a correct way to start a session in PHP?
+
+*
+1 point
+A) session_begin()
+B) new_session()
+C) start_session()
+D) session_start()
+4. What is the purpose of the "include" statement in PHP?
+*
+1 point
+A) To import external CSS files
+B) To include a separate PHP file into the current script
+C) To declare a new function
+D) To create an HTML form
+5. What is the primary purpose of a PHP framework like Laravel or Symfony?
+
+*
+1 point
+A) To design user interfaces
+B) To manage front-end components
+C) To provide a structured, efficient, and scalable environment for developing web applications.
+D) To enhance browser performance
+6. Which PHP function is used to escape special characters in a string to prevent SQL injection?
+
+*
+1 point
+A) sanitize()
+B) safe_string()
+C) escape_string()
+D) mysqli_real_escape_string()
+7. Which of the following is NOT a valid method for sanitizing user input in PHP?
+
+*
+1 point
+A) Using prepared statements
+B) Using input validation functions
+C) Using the strip_tags() function
+D) Using the eval() function
+8. What does "ORM" stand for in the context of PHP development?
+
+*
+1 point
+A) Object-Relational Mapping
+B) Online Resource Manager
+C) Order and Relationship Mapper
+D) Object-Routing Model
+9. Which PHP superglobal array is used to retrieve form data sent with both the "get" and "post" methods?
+
+*
+1 point
+A) $_GET
+B) $_POST
+C) $_REQUEST
+D) $_DATA
+10. In PHP, how can you prevent a script from timing out due to long execution?
+*
+1 point
+A) Use the "set_time_limit()" function
+B) Increase the "execution_time" directive in php.ini
+C) Place the script in a background process
+D) There's no way to prevent a script from timing out
+11. What is the purpose of the "autoload" feature in PHP?
+
+*
+1 point
+A) To automatically include external CSS files
+B) To load JavaScript libraries asynchronously
+C) To automatically load PHP classes when needed
+D) To optimize images for web performance
+12. Which PHP function is used to redirect the user to a different URL?
+
+*
+1 point
+A) redirect()
+B) header()
+C) location()
+D) go_to()
+13. What is the primary role of a PHP session?
+
+*
+1 point
+A) To store client-side data
+B) To secure database connections
+C) To manage user authentication
+D) To process form submissions
+14. Which of the following is used to iterate over each key/value pair in an associative array in PHP?
+
+*
+1 point
+A) foreach ($array as $key => $value)
+B) for ($key in $array)
+C) while ($array->next())
+D) loop ($array)
+15. In PHP, how can you prevent cross-site scripting (XSS) vulnerabilities?
+
+*
+1 point
+A) Using the "allow_xss" directive in php.ini
+B) Escaping user input before outputting it
+C) Using the "xss_clean()" function on input data
+D) Disabling JavaScript in the browser
+16. What does the term "singleton" refer to in PHP design patterns?
+
+*
+1 point
+A) A class that can have only one instance
+B) A class that is used as a single entry point for the application
+C) A class that represents a single data structure
+D) A class that implements the Singleton interface
+17. Which PHP extension is commonly used for working with databases like MySQL and PostgreSQL?
+
+*
+1 point
+A) sql_ext
+B) db_mysql
+C) pdo
+D) sql_db
+18. What does the "public" visibility keyword indicate in PHP class properties or methods?
+
+*
+1 point
+A) The property or method can only be accessed from within its class
+B) The property or method can only be accessed from its own class and subclasses
+C) The property or method can be accessed from any context
+D) The property or method can be accessed only by the class itself
+19. What is the role of a PHP composer?
+
+*
+1 point
+A) To write HTML templates
+B) To manage package dependencies in a PHP project
+C) To optimize SQL queries
+D) To automate unit testing
+20. Which PHP extension is used for handling JSON data?
+*
+1 point
+A) json_ext
+B) json_parse
+C) json_lib
+D) json
+Never submit passwords through Google Forms.
+This form was created inside YKL 88 Trading. Report Abuse
+Google Forms
