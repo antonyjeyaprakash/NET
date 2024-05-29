@@ -285,6 +285,7 @@ Others
 2. What is queryselector in jquery
 3. What is queryselectorall in jquery
 4. what is the use of dependency injection.
+5. Explain Async property in jquery ajax
 
 
 

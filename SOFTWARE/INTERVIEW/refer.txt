@@ -1,0 +1,211 @@
+<?php
+print( 1 <=> 1);  //true
+print( 1 <=> 2);  //false    
+print( 2 <=> 1);	//false
+?>
+
+
+<?php
+$str = "PHP";
+$$str = " Programming"; 
+echo "$str ${$str}"; 	 // PHP  Programming
+echo "$PHP";		//$PHP
+?>
+
+$i = 016;       //  6*8 0 + 1 * 8 +  ==  6 + 8 = 14 / 2 = 7
+echo ($i / 2);   //  7
+
+
+ Arrow Function Vs Regular Function with example
+ 
+ function add(x, y){
+    return x+y;
+ }
+ 
+ var result = (x, y) => ( x + y )
+ 
+ 
+ 
+Multiple each array value by 3,
+
+let arr = [3, 4, 5, 6];
+
+map(arr) = 
+
+
+Write a program to move all zeroes to the end of array.
+
+Input:  arr[] = {1, 2, 0, 4, 3, 0, 5, 0};
+
+<?php
+//Write a program to move all zeroes to the end of array.
+//Input:  arr[] = {1, 2, 0, 4, 3, 0, 5, 0};";
+ $arr = array(1, 2, 0, 4, 3, 0, 5, 0);
+ $result = moveZero($arr);
+ print_r($result);
+ 
+ function moveZero($arr){
+      $newarr = array();
+      $zeroarr = array();
+     for($i=0; $i < count($arr); $i++)
+     {
+         if($arr[$i] != 0)
+            $newarr[] = $arr[$i];
+         else 
+           $zeroarr[] = $arr[$i];
+     }
+     return (array_merge($newarr, $zeroarr));
+ }
+ 
+ 
+
+SQL -
+
+How would you find duplicate email  records (first_name, last_name, email) in the users' table?
+
+select first_name, last_name,  email from users group by email having count(email) > 1 order by email asc
+
+select 
+
+
+
+1. contagious array in javascript
+2. map function in javascript
+
+--------------------------------------------------------------------------------------------
+
+1. show dbs
+2. use database name. eg create the database
+5. db.products.insertOne
+4. db.products.find
+6. db.products.findOne
+7. db.student.createIndex({student_id:1},{unique:true})
+    db.< collection >.createIndex( < key and index type specification>, { unique: true } )
+
+
+3. ctrl + L to clear the screen
+4. ctrl + Enter for next screen
+
+
+
+db.shops.insert({
+    _id: ObjectId(7df78ad8902c),
+    title: 'MongoDB Overview', 
+    description: 'MongoDB is no sql database',
+    by: 'Intellipaat',
+    url: 'http://www.intellipaat.com',
+    tags: ['mongodb', 'database', 'NoSQL'],
+    likes: 100
+})
+
+
+------------------------------------------------------------------------
+							CAKEPHP
+------------------------------------------------------------------------
+1. composer create-project --prefer-dist cakephp/app myapp
+
+
+relations:-
+
+belongsTo – E.g. Many articles belong to a user.
+hasOne – E.g. A user has one profile
+hasMany – E.g. A user has many articles
+belongsToMany – E.g. An article belongsToMany tags.
+
+
+
+<?php
+// 1. simple inheritance
+// 2. dependency injection
+// 3. consturctor and destructor
+
+class Base
+{
+    private $a;
+    private $b;
+ 		public function __construct()
+    {
+    	    echo "Base constructor called\n";
+    }
+    public function sum($value1, $value2)
+    { 
+       return $value1->getValue() + $value2->getValue();
+    }
+    public function __destruct()
+    {
+         echo "Base Destructor called\n";
+    }
+}
+class Derived extends Base
+{
+    
+}
+class Number
+{
+    private $value;
+    public function __construct($data)
+    {
+       $this->value = $data;
+    }
+    public function getValue()
+    {
+       return $this->value;
+    }
+}
+$value1 = new Number(5);
+$value2 = new Number(15);
+$b = new Base();
+$b->sum($value1, $value2);
+
+
+
+
+$str = "antony php developer";
+echo $str[0];
+echo $str[1];
+
+
+
+user ->  id, name, fatherName
+address -> id, userID, street, city
+
+select name, street, city from user, address where user.id = address.userID
+select name, street, city from user left join on user.id = address.userID
+select currentTime from dual;
+
+$(#specid).bgcolor = red
+
+queryselector
+queryselectorall
+what is the use of dependency injection.
+
+async property in ajax call
+reverse routing
+   Auth::id
+   
+   <div>
+   <?php 
+       foreach($a of $data  ){
+           {{$data}}
+       }
+           
+   
+   
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
