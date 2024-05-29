@@ -1,0 +1,17 @@
+   ITC INFOTECH
+   ------------
+   
+1. Life cycle of a cook and which one is first executed
+2. What is the purpose of angular.json file
+3. What is the purpose of package and package.lock file in angular
+4. What is change detection? Explain onpush strategy and default strategy
+5. What is interpolation
+6. What is decorator
+7. Best practices in angular
+8. Difference between subject and behaviour subject
+9. What is lazy loading
+10. What is directive? Have you done any custom directive
+11. what is map function? What is the difference between for loop and map function.
+12. What is AOT (Ahead of time compilation)
+13. How to merge objects using rest operator
+   
