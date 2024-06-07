@@ -1,0 +1,42 @@
+Expected Wipro interview question by consultancy
+1. Apache Error Logs
+2. Error Handling
+3. Exception Handling
+4. Excel Sheet upload Function and Mail Function Logic
+5. SQL Joins
+1. What are php traits, and how do they differ from classes and interfaces
+2. How would you handle errors and exceptions in Php
+3. How to optimize performance of a php application
+4. Explain the concept of ACID properties in database transactions
+5. How does MySQL ensures transactional integrity
+6. What is normalisation in database design
+7. Difference between MyISAM and InnoDB
+8. Explain event delegation in jQuery and why it's beneficial
+9. How do you perform AJAX requests using jQuery, and what are the common methods for handling responses
+10. How do you prevent jQuery code from running before the DOM is fully loaded
+
+Interview Questions by Aspire Client Black Management
+------------------------------------------------------
+guards in laravel (Its an authentication)
+policies in laravel
+what is Model Query Scope
+What is Observers in laravel
+what is the usage of cross join in mysql
+What is sleeping connections in mysql
+What is concurrent connections in mysql
+When we use cross joins.
+what is Factory in laravel
+What is DRY Principle
+What is SOLID Principle
+Stubbing
+mysql server shows run out of memory error. that means memory exhausted. How will you tackle it.
+
+
+select * from users as non_deleted
+left join users as deleted_at on non_deleted.id = deleted_at .id and deleted_at .deleted = 1
+where non_deleted.deleted = 0;
+Transaction Management in SQL
+BEGIN TRANSACTION: This command marks the beginning of a transaction. All subsequent SQL statements are treated as part of the same transaction until a COMMIT or ROLLBACK statement is issued.
+COMMIT: The COMMIT statement finalizes a transaction, making all changes within the transaction permanent. If the transaction was successful, the changes are saved; otherwise, they are discarded.
+ROLLBACK: The ROLLBACK statement cancels a transaction, undoing all changes made within it. This is typically used when an error occurs or when the transaction violates some condition.
+SAVEPOINT: SAVEPOINT allows you to set points within a transaction to which you can later roll back. This is useful when you want to partially undo changes made within a transaction.

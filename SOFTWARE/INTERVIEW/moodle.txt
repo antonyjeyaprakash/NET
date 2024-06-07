@@ -1,0 +1,4 @@
+1. what is capabilities in moodle
+2. how do you create roles in moodle
+3. how do you create block in moodle
+4. what is moustach in moodle
